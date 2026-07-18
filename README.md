@@ -88,13 +88,13 @@ Interface centralizada para visualização do estado geral da infraestrutura.
 │             Nexus Monitor Enterprise         │
 ├──────────────────────────────────────────────┤
 │ Interface Web                                │
-│ Dashboards • Eventos • Alertas • Inventário │
+│ Dashboards • Eventos • Alertas • Inventário  │
 ├──────────────────────────────────────────────┤
 │ Processamento e Inteligência                 │
-│ Regras • Histórico • Correlação • Validação │
+│ Regras • Histórico • Correlação • Validação  │
 ├──────────────────────────────────────────────┤
 │ Coleta segura em modo somente leitura        │
-│ Linux • Solaris • Virtualização • Hardware  │
+│ Linux • Solaris • Virtualização • Hardware   │
 └──────────────────────────────────────────────┘
 ```
 
