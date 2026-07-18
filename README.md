@@ -1,4 +1,10 @@
- <div align="center">
+<p align="center">
+  <img src="./nexus-monitor-enterprise-banner.png"
+       alt="Nexus Monitor Enterprise"
+       width="100%">
+</p>
+
+<div align="center">
 
 # Nexus Monitor Enterprise
 
